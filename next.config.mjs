@@ -2,9 +2,8 @@
 const nextConfig = { 
   reactStrictMode: true, 
   poweredByHeader: false,
-  transpilePackages: ["jose", "jwks-rsa"],
   experimental: {
-    serverComponentsExternalPackages: ["telegraf"],
+    serverComponentsExternalPackages: ["telegraf", "firebase-admin", "jose", "jwks-rsa"],
   },
 };
 
