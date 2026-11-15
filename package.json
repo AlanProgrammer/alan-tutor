@@ -37,5 +37,8 @@
     "eslint": "^8.57.1",
     "eslint-config-next": "^14.2.25",
     "typescript": "^5.7.2"
+  },
+  "overrides": {
+    "jose": "4.15.5"
   }
 }

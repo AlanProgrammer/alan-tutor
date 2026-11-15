@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true, 
   poweredByHeader: false,
   experimental: {
-    serverComponentsExternalPackages: ["telegraf", "firebase-admin", "jose", "jwks-rsa"],
+    serverComponentsExternalPackages: ["telegraf"],
   },
 };
 
