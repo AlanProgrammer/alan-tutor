@@ -1,0 +1,1 @@
+{"indexes":[{"collectionGroup":"_match_queue","queryScope":"COLLECTION","fields":[{"fieldPath":"cefrLevel","order":"ASCENDING"},{"fieldPath":"status","order":"ASCENDING"}]}],"fieldOverrides":[]}
